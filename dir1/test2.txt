@@ -1,0 +1,2 @@
+
+This file is to practice making directories in repositories. To do so you must make a folder within the repository with at least one file, filex. To add this folder you must " git add dir1/filex  ; git commit -m "making new file"; git push origin master " 
